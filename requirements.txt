@@ -24,6 +24,7 @@ dbt-core==1.8.6
 dbt-extractor==0.5.1
 dbt-postgres==1.8.2
 dbt-semantic-interfaces==0.5.1
+dotenv-python==0.0.1
 debugpy==1.8.5
 decorator==5.1.1
 deepdiff==7.0.1
@@ -100,7 +101,7 @@ pygments==2.18.0
 pyjwt==2.9.0
 pyopenssl==24.2.1
 python-dateutil==2.9.0.post0
-python-dotenv==1.0.1
+
 python-slugify==8.0.4
 pytimeparse==1.1.8
 pytz==2024.2
